@@ -5,6 +5,6 @@ We have different homemade and edited tools we use.
    
 2) whisper_vtc1_alignment.py aligns an existing Whisper transcript with an existing VTC/ALICE diarization of the same audio file. Script is inside the prior project and you may find it at https://github.com/dmlabcode/UL_Processor_2223/blob/master/UL_Processor_V2020/whisper_vtc1_alignment.py
 
-3) denoiseV5 is a scriot used to kalman filter and interpolation of location data and audio data (LENA) https://github.com/dmlabcode/UL_Processor_2223/blob/master/UL_Processor_V2020/denoisev5.py
+3) denoiseV5 is a scriot used to kalman filter and interpolation of location data and audio data (LENA) https://github.com/dmlabcode/UL_Processor_2223/blob/master/UL_Processor_V2020/denoisev5.py. This is a new and debugged version of the Supplement prepare_classroom_motion_vocal_dataset.py code used.
 
 4) MLU_calculation.py is a script used to get mean length utterances for existing whisper vtc files. https://github.com/dmlabcode/UL_Processor_2223/blob/master/UL_Processor_V2020/MLU_calculation.py
